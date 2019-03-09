@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fuckyou" name="FuckYou Repository" version="1.0.0" provider-name="FuckYou">
+<addon id="repository.fuckyou" name="FuckYou Repository" version="1.0.1" provider-name="FuckYou">
 	<extension point="xbmc.addon.repository" name="FuckYou Repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
