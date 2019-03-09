@@ -21,9 +21,9 @@
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
-		    <info compressed="false">https://raw.githubusercontent.com/djwayne1985/repository.fuckyou/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/djwayne1985/repository.fuckyou/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/djwayne1985/repository.fuckyou/master/zips/</datadir>
+		    <info compressed="false">https://raw.githubusercontent.com/whoami022019/repository.fuckyou/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/whoami022019/repository.fuckyou/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/whoami022019/repository.fuckyou/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">FuckYou</summary>
